@@ -13,7 +13,6 @@
 }
 
 .create-task-heading {
-  
   font-size:45px;
   font-family:"Roboto";
   font-weight:200px;
@@ -44,11 +43,13 @@
   padding-right: 20px;
   padding-left: 20px;
 }
+
 .todo-items-heading {
   font-family: "Roboto";
   font-size: 32px;
   font-weight: 700;
 }
+
 .checkbox-label {
   font-family: "Roboto";
   font-size: 16px;
@@ -61,6 +62,7 @@
   padding-right: 20px;
   border-radius: 5px;
 }
+
 .label-container {
   background-color: #e6f6ff;
   width: 100%;
@@ -72,13 +74,16 @@
   border-bottom: none;
   border-radius: 4px;
 }
+
 .delete-icon-container {
   text-align: right;
   width: 18%;
 }
+
 .delete-icon {
   padding: 15px;
 }
+
 .todo-items-container {
   margin: 0px;
   padding: 0px;
